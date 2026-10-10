@@ -1,3 +1,5 @@
+[日本語](README.ja.md)
+
 # ARTEX `/btw` 곁질문
 
 한국어 · [中文](README.zh.md)

@@ -1,3 +1,5 @@
+[日本語ドキュメント](README.ja.md)
+
 <div align="center">
 
 # ARTEX
